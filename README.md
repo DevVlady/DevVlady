@@ -15,7 +15,37 @@ Full-Stack Web Developer from Minneapolis, MN
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
 
-My Workspace
+Applications & Languages Utilized
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+&nbsp;
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+&nbsp;
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/bulma-teal?style=for-the-badge&logo=bulma&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/json-teal?style=for-the-badge&logo=json&logoColor=white)
+
+<br>
+
+
+
+🖥 My Workspace 🖥
 
 ![image](https://img.shields.io/badge/Apple-iMac_5k_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 &nbsp;
@@ -29,22 +59,22 @@ My Workspace
 vladimir.s.dimitrov14@gmail.com
 
 
+<br>
+
 <details align="left">
 
   <summary>📑 My Resume</summary>
-  <br>
+      <a href="https://github.com/Vlady14/VDimitrovs_Resume/raw/main/Vladimir%20Dimitrov%20%7C%20Web%20Developer.pdf">Download Resume</a>
 
-  #### 📚Education
+  <h3>📚Education</h3>
+
   * 📆 2020 - 2021
   * 📍Rutgers, The State University of New Jersey
     * Full-Stack Web Development Certificate
   * 📆 2014 - 2016
   * 📍Metro State, Metropolitan State Univerity
     * Bachelors of Science in Marketing
-
 </details>
-
-
 </div>
 
 <br>
@@ -56,7 +86,6 @@ vladimir.s.dimitrov14@gmail.com
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 
 
