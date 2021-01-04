@@ -48,7 +48,17 @@ Full-Stack Web Developer from Minneapolis, MN
 &nbsp;
 ![image](https://img.shields.io/badge/bulma-teal?style=for-the-badge&logo=bulma&logoColor=white)
 &nbsp;
+![image](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+&nbsp;
 ![image](https://img.shields.io/badge/json-teal?style=for-the-badge&logo=json&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=webpack&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
 
