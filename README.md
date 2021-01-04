@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Vladimir Dimitrov and I want to thank you for visiting my GitHub profile
 
-<!--
-**Vlady14/vlady14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=vlady14&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/vlady14/github-readme-stats)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
+
+
+
