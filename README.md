@@ -14,6 +14,9 @@ Full-Stack Web Developer from Minneapolis, MN
 &nbsp;
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_vlady/)
 &nbsp;
+[![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white
+)](https://vdimitrov-portfolio.herokuapp.com/)
+&nbsp;
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/Vlady14?tab=repositories)
 
@@ -81,5 +84,5 @@ Full-Stack Web Developer from Minneapolis, MN
     * Bachelors of Science in Marketing
 </details>
 
-THANK YOU FOR VISITING MY PROFILE
+<h3>THANK YOU FOR VISITING MY PROFILE</h3>
 </div>
