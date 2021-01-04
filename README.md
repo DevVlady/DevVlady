@@ -13,8 +13,9 @@ Full-Stack Web Developer from Minneapolis, MN
 
 [![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=vlady14&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/vlady14/github-readme-stats)
 
+<br>
 
-Applications & Languages Utilized
+<h3>💻 Applications & Programs Exposure🖱</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
@@ -42,12 +43,9 @@ Applications & Languages Utilized
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
 
-
 <br>
 
-
-
-🖥 My Workspace 🖥
+<h3>🖥 My Workspace 🖥</h3>
 
 ![image](https://img.shields.io/badge/Apple-iMac_5k_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 &nbsp;
@@ -57,8 +55,9 @@ Applications & Languages Utilized
 &nbsp;
 ![image](https://img.shields.io/badge/Catalina-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-📫 How to reach me:
+<h3>📫 How to reach me:
 vladimir.s.dimitrov14@gmail.com
+</h3>
 
 
 <br>
