@@ -1,7 +1,13 @@
 <div align="center">
-<h1>Hi there 👋 I'm Vladimir 🧑🏾‍💻</h1>
+<h1>Hi there 👋🏾 I'm Vladimir 🧑🏾‍💻</h1>
 
 Full-Stack Web Developer from Minneapolis, MN
+
+<br>
+
+🔭 I’m currently working on topics for my next project
+
+🌱 I’m currently learning how to use React.js & build my own library
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/vladimirsdimitrov/)
@@ -55,9 +61,7 @@ Full-Stack Web Developer from Minneapolis, MN
 &nbsp;
 ![image](https://img.shields.io/badge/Catalina-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-<h3>📫 How to reach me:
-vladimir.s.dimitrov14@gmail.com
-</h3>
+📫 How to reach me: vladimir.s.dimitrov14@gmail.com
 
 
 <br>
@@ -76,18 +80,6 @@ vladimir.s.dimitrov14@gmail.com
   * 📍Metro State, Metropolitan State Univerity
     * Bachelors of Science in Marketing
 </details>
+
+THANK YOU FOR VISITING MY PROFILE
 </div>
-
-<br>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning how to
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
