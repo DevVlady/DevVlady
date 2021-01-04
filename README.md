@@ -24,7 +24,7 @@ Full-Stack Web Developer from Minneapolis, MN
 
 <br>
 
-<h3>💻 Applications & Programs Exposure🖱</h3>
+<h3>💻 Applications & Programs Exposure 💻</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
@@ -81,7 +81,7 @@ Full-Stack Web Developer from Minneapolis, MN
 
 <details align="left">
 
-  <summary>📑 My Resume</summary>
+  <summary>📑 My Resume 📑</summary>
       <a href="https://github.com/Vlady14/VDimitrovs_Resume/raw/main/Vladimir%20Dimitrov%20%7C%20Web%20Developer.pdf">Download Resume</a>
 
   <h3>📚Education</h3>
@@ -94,5 +94,10 @@ Full-Stack Web Developer from Minneapolis, MN
     * Bachelors of Science in Marketing
 </details>
 
-<h3>THANK YOU FOR VISITING MY PROFILE</h3>
+<br>
+
+[![Vladimirs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vlady14&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>🙏🏾 THANK YOU FOR VISITING MY PROFILE 🙏🏾</h3>
 </div>
+
