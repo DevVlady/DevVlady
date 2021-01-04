@@ -13,7 +13,6 @@ Full-Stack Web Developer from Minneapolis, MN
 
 [![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=vlady14&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/vlady14/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
 
 Applications & Languages Utilized
 
@@ -40,6 +39,9 @@ Applications & Languages Utilized
 ![image](https://img.shields.io/badge/bulma-teal?style=for-the-badge&logo=bulma&logoColor=white)
 &nbsp;
 ![image](https://img.shields.io/badge/json-teal?style=for-the-badge&logo=json&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
+
 
 <br>
 
