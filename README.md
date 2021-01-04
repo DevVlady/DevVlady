@@ -29,8 +29,25 @@ My Workspace
 vladimir.s.dimitrov14@gmail.com
 
 
+<details align="left">
+
+  <summary>📑 My Resume</summary>
+  <br>
+
+  #### 📚Education
+  * 📆 2020 - 2021
+  * 📍Rutgers, The State University of New Jersey
+    * Full-Stack Web Development Certificate
+  * 📆 2014 - 2016
+  * 📍Metro State, Metropolitan State Univerity
+    * Bachelors of Science in Marketing
+
+</details>
+
+
 </div>
 
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning how to
