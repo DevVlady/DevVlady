@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="color: green; font-family: ariel">Hi there 👋, I'm Vladimir</h1>
+<h1>Hi there 👋 I'm Vladimir 🧑🏾‍💻</h1>
 
 Full-Stack Web Developer from Minneapolis, MN
 
@@ -12,10 +12,21 @@ Full-Stack Web Developer from Minneapolis, MN
 )](https://github.com/Vlady14?tab=repositories)
 
 [![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=vlady14&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/vlady14/github-readme-stats)
-&nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
 
+My Workspace
 
+![image](https://img.shields.io/badge/Apple-iMac_5k_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/Intel-6_Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/Ram-8_GB-0071C5?style=for-the-badge&logo=ram&logoColor=white)
+&nbsp;
+![image](https://img.shields.io/badge/Catalina-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+📫 How to reach me:
+vladimir.s.dimitrov14@gmail.com
 
 
 </div>
@@ -26,7 +37,6 @@ Full-Stack Web Developer from Minneapolis, MN
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
