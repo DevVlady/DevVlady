@@ -96,7 +96,7 @@ Full-Stack Web Developer from Minneapolis, MN
 
 <br>
 
-[![Vladimirs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vlady14&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Vladimirs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Vlady&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>🙏🏾 THANK YOU FOR VISITING MY PROFILE 🙏🏾</h3>
 </div>
