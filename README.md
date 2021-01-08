@@ -60,7 +60,6 @@ Full-Stack Web Developer from Minneapolis, MN
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlady14&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/vlady14/github-readme-stats)
 
 <br>
 
