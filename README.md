@@ -71,7 +71,7 @@ Full-Stack Web Developer from Minneapolis, MN
 &nbsp;
 ![image](https://img.shields.io/badge/Ram-8_GB-0071C5?style=for-the-badge&logo=ram&logoColor=white)
 &nbsp;
-![image](https://img.shields.io/badge/Catalina-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Big_Sur-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 📫 How to reach me: vladimir.s.dimitrov14@gmail.com
 
