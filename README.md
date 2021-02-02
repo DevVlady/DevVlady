@@ -18,9 +18,9 @@ Full-Stack Web Developer from Minneapolis, MN
 )](https://vdimitrov-portfolio.herokuapp.com/)
 &nbsp;
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/Vlady14?tab=repositories)
+)](https://github.com/DevVlady?tab=repositories)
 
-[![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=vlady14&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/vlady14/github-readme-stats)
+[![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=devvlady&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/devvlady/github-readme-stats)
 
 <br>
 
@@ -81,7 +81,7 @@ Full-Stack Web Developer from Minneapolis, MN
 <details align="left">
 
   <summary>📑 My Resume 📑</summary>
-      <a href="https://github.com/Vlady14/VDimitrovs_Resume/raw/main/Vladimir%20Dimitrov%20%7C%20Web%20Developer.pdf">Download Resume</a>
+      <a href="https://github.com/DevVlady/VDimitrovs_Resume/raw/main/Vladimir%20Dimitrov%20%7C%20Web%20Developer.pdf">Download Resume</a>
 
   <h3>📚Education</h3>
 
