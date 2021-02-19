@@ -15,7 +15,7 @@ Full-Stack Web Developer from Minneapolis, MN
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_vlady/)
 &nbsp;
 [![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white
-)](https://devvlady.github.io/DevVlady_Portfolio/)
+)](https://dev-vlady.com/)
 &nbsp;
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/DevVlady?tab=repositories)
