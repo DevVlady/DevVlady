@@ -81,7 +81,7 @@ Full-Stack Web Developer from Minneapolis, MN
 <details align="left">
 
   <summary>📑 My Resume 📑</summary>
-      <a href="https://github.com/DevVlady/VDimitrovs_Resume/raw/main/Vladimir%20Dimitrov%20Resume.pdf.pdf">Download Resume</a>
+      <a href="https://github.com/DevVlady/VDimitrovs_Resume/raw/main/Vladimir%20Dimitrovs%20Resume.pdf">Download Resume</a>
 
   <h3>📚Education</h3>
 
